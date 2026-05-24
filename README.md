@@ -1,3 +1,15 @@
+<div align="center">
+
+# ✨ Cache Simulator ✨
+
+[![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+
+
+</div>
+
+---
+
 # 💾 Visual Cache Memory Simulator
 
 ### A Python-based tool to visualize Direct & Associative Mapping
